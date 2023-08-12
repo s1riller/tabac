@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Upload Image</title>
+  </head>
+  <body>
+    <h1>Upload Image to Decode Barcode</h1>
+    <form method="post" enctype="multipart/form-data">
+      {% csrf_token %}
+      <input type="file" name="image" />
+      <button type="submit">Upload and Decode</button>
+    </form>
+  </body>
+</html>

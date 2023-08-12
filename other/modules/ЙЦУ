@@ -1,0 +1,18 @@
+GET /api/v1/gwares?page=0&limit=100 HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: _ym_uid=1682300907290900215; _ym_d=1682300907; _ga=GA1.2.1494914864.1682300908; tmr_lvid=3baa7013a9f7bff999c20c43f481b679; tmr_lvidTS=1682300908392; _fbp=fb.1.1682300909464.1758820943; _ga_7JL0LZZSRW=GS1.2.1691231033.9.0.1691231033.60.0.0; refresh_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MTM3NzcxOSwiaWF0IjoxNjkxMjkxMzE5LCJqdGkiOiIxNjU0NzYxZjIzNGY0OWQ0OWE1NmU1ZWNlZGM5ZmUxOCIsInVzZXJfaWQiOjYyODE0OSwib3duZXJfaWQiOjYyODIyOSwic2FfdWlkIjo2MjgyMjksInJvbGUiOiJcdTA0MTRcdTA0MzhcdTA0M2JcdTA0MzVcdTA0NDAiLCJtc2lzZG4iOiI3OTE0OTEzMDIwNCJ9.Iz66Bsr1-blM02YuF63HmopCJlPiSqc9HeWOd5d0EFTmkmZLrpaToM-j5kyTERJYzY_Dy03Fn7RtPBqmy6n9unC2r-Y98sFphaMrFcUE0W3nuvgt2jbhTgn_pVBVG2oP-o2UJDwCtaK1pQecRGgGtw1fNHlz2reveopv27azdcmg_wgyUdQDUiXTsKjuEZDn8dpTZiS45OgVSQeqX6QqLBSmqtppXZVXBN4YzhemDMSwuQAsI0ERpsg5_sS3COSeuOK1zN8cFCLr-FZkYsq7o_7WSdAY2sVnWzrzmsDchlAm71ZI6diqKaFXl8g2YD46jzc6rXVtucgetsySm0cIoS3VFexUh4FIVoIuBzJm5ah93OZuZYgJifclgK536uxmWX7rMzxIrC5S5d98ivvgsoNMBBy_G_sWa7AIlRqg8MuLXmC_aJ-mt82Dk-zJRATeZT4er1iFb4myHRg9tmbYIgOkd4s1gy7xo_Ogh52gg-japd-MttPIA9XiqW-VYM3wtRiIC4b0lZlb9JDDLDVZ1bb1GhqhMm_vqHsNar_w4hRncB-N8ozgz57Yqh1i85HKmSEJEyAauLnUzL3NAWz1BUWJdwPQyWxsM0ee6Y8wPZFx9WDmsQ0jVwueKfM5bZzLgJInHqEoGvTiKKGhnH5s70HXGUYjGs8bFUrvbx5fnh4; sessionid=jxr6xni1nghxz1tljkd0ud6vmnunk4un; csrftoken=ziCC05JS0NAUyQl0sX8VVY0w7pbJ2OzeUsnoJNQS25D1TkekMl2plfNMQKKCHojv
+DNT: 1
+Host: lbe.litebox.ru
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"

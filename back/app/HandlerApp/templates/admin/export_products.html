@@ -1,0 +1,8 @@
+{% extends "admin/base.html" %} {% block content %}
+<div id="content-main">
+  <form method="post">
+    {% csrf_token %} {{ form.as_p }}
+    <button type="submit">Экспорт в Excel</button>
+  </form>
+</div>
+{% endblock %}

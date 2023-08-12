@@ -1,0 +1,1320 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "smart_str",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "smart_str",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "decode",
+        "importPath": "pyzbar.pyzbar",
+        "description": "pyzbar.pyzbar",
+        "isExtraImport": true,
+        "detail": "pyzbar.pyzbar",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "HandlerApp",
+        "description": "HandlerApp",
+        "isExtraImport": true,
+        "detail": "HandlerApp",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0001_initial",
+        "description": "back.app.HandlerApp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ProductGroup',\n            fields=[\n                ('wg_id', models.IntegerField(primary_key=True, serialize=False, unique=True)),\n                ('code', models.CharField(blank=True, max_length=10, null=True)),",
+        "detail": "back.app.HandlerApp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0002_alter_products_main_unit_id",
+        "description": "back.app.HandlerApp.migrations.0002_alter_products_main_unit_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products',\n            name='main_unit_id',\n            field=models.IntegerField(null=True, verbose_name='Основная единица измерения'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0002_alter_products_main_unit_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0003_alter_products_wg_id",
+        "description": "back.app.HandlerApp.migrations.0003_alter_products_wg_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0002_alter_products_main_unit_id'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products',\n            name='wg_id',\n            field=models.IntegerField(null=True, verbose_name='Id товарной группы'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0003_alter_products_wg_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0004_alter_products_wares_parent",
+        "description": "back.app.HandlerApp.migrations.0004_alter_products_wares_parent",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0003_alter_products_wg_id'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products',\n            name='wares_parent',\n            field=models.IntegerField(null=True, verbose_name='Товар родитель'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0004_alter_products_wares_parent",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0005_alter_products_code",
+        "description": "back.app.HandlerApp.migrations.0005_alter_products_code",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0004_alter_products_wares_parent'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products',\n            name='code',\n            field=models.CharField(blank=True, max_length=10, null=True, verbose_name='Код'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0005_alter_products_code",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0006_alter_products_product_group",
+        "description": "back.app.HandlerApp.migrations.0006_alter_products_product_group",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0005_alter_products_code'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products',\n            name='product_group',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, related_name='products', to='HandlerApp.productgroup'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0006_alter_products_product_group",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0007_alter_products_wg_id",
+        "description": "back.app.HandlerApp.migrations.0007_alter_products_wg_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0006_alter_products_product_group'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products',\n            name='wg_id',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, related_name='wg_name', to='HandlerApp.productgroup', verbose_name='Id товарной группы'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0007_alter_products_wg_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0008_products1_alter_products_wg_id",
+        "description": "back.app.HandlerApp.migrations.0008_products1_alter_products_wg_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0007_alter_products_wg_id'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Products1',\n            fields=[\n                ('id', models.IntegerField(primary_key=True, serialize=False, unique=True)),\n                ('name', models.CharField(max_length=1024, verbose_name='Наименование')),",
+        "detail": "back.app.HandlerApp.migrations.0008_products1_alter_products_wg_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0009_alter_products1_quantity",
+        "description": "back.app.HandlerApp.migrations.0009_alter_products1_quantity",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0008_products1_alter_products_wg_id'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products1',\n            name='quantity',\n            field=models.IntegerField(default=0, verbose_name='Остаток'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0009_alter_products1_quantity",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0010_alter_products1_price",
+        "description": "back.app.HandlerApp.migrations.0010_alter_products1_price",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0009_alter_products1_quantity'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products1',\n            name='price',\n            field=models.IntegerField(default=0, verbose_name='Цена'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0010_alter_products1_price",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0011_alter_products1_id",
+        "description": "back.app.HandlerApp.migrations.0011_alter_products1_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0010_alter_products1_price'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='products1',\n            name='id',\n            field=models.CharField(max_length=1024, primary_key=True, serialize=False, unique=True),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0011_alter_products1_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0012_products1_wares_id",
+        "description": "back.app.HandlerApp.migrations.0012_products1_wares_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0011_alter_products1_id'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='products1',\n            name='wares_id',\n            field=models.IntegerField(null=True, verbose_name='Id товара для системы'),\n        ),",
+        "detail": "back.app.HandlerApp.migrations.0012_products1_wares_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0013_dailyexpenditure",
+        "description": "back.app.HandlerApp.migrations.0013_dailyexpenditure",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0012_products1_wares_id'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='DailyExpenditure',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('date', models.DateField()),",
+        "detail": "back.app.HandlerApp.migrations.0013_dailyexpenditure",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.migrations.0014_delete_dailyexpenditure",
+        "description": "back.app.HandlerApp.migrations.0014_delete_dailyexpenditure",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HandlerApp', '0013_dailyexpenditure'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='DailyExpenditure',\n        ),\n    ]",
+        "detail": "back.app.HandlerApp.migrations.0014_delete_dailyexpenditure",
+        "documentation": {}
+    },
+    {
+        "label": "ProductGroupAdmin",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.admin",
+        "description": "back.app.HandlerApp.admin",
+        "peekOfCode": "class ProductGroupAdmin(admin.ModelAdmin):\n    list_display = ('wg_id', 'code', 'name', 'higher_id',\n                    'external_id', 'external_code')\n    list_filter = ('higher_id',)\n    search_fields = ('name', 'wg_id')\n    # Описание полей на русском языке\n    ProductGroup._meta.get_field('wg_id').verbose_name = 'Id товарной группы'\n    ProductGroup._meta.get_field('code').verbose_name = 'Код'\n    ProductGroup._meta.get_field('name').verbose_name = 'Наименование'\n    ProductGroup._meta.get_field('higher_id').verbose_name = 'Id родителя'",
+        "detail": "back.app.HandlerApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductsAdmin",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.admin",
+        "description": "back.app.HandlerApp.admin",
+        "peekOfCode": "class ProductsAdmin(admin.ModelAdmin):\n    list_display = ('code', 'name', 'full_name', 'wareskind_code', 'main_unit_id', 'wg_id', 'producer_id', 'importer_id', 'tax_id', 'alccode', 'wares_parent', 'wares_parent_id', 'wares_type_code',\n                    'country_code', 'country_name', 'volume_value', 'proof_value', 'external_id', 'external_code', 'wares_views_code', 'wares_id', 'wares_views_name', 'status', 'status_name', 'wares_type_name')\n    list_filter = ('wareskind_code', 'status', 'country_code')\n    search_fields = ('name', 'code', 'external_id', 'wares_id')\n    # list_display = (\n    #     'code', 'name', 'full_name', 'get_product_group_name', 'wareskind_code', 'main_unit_id',\n    #     'producer_id', 'importer_id', 'tax_id', 'alccode', 'wares_parent', 'wares_parent_id',\n    #     'wares_type_code', 'country_code', 'country_name', 'volume_value', 'proof_value',\n    #     'external_id', 'external_code', 'wares_views_code', 'wares_id', 'wares_views_name',",
+        "detail": "back.app.HandlerApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Products1Admin",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.admin",
+        "description": "back.app.HandlerApp.admin",
+        "peekOfCode": "class Products1Admin(admin.ModelAdmin):\n    actions = ['export_to_excel']  # Добавляем действие для экспорта в Excel\n    # Вывести все поля модели\n    list_display = [field.name for field in Products1._meta.get_fields()]\n    # Использовать все поля для фильтрации\n    list_filter = [field.name for field in Products1._meta.get_fields()]\n    # Искать по всем полям\n    search_fields = [field.name for field in Products1._meta.get_fields()]\n    def export_to_excel(modeladmin, request, queryset):\n        form = ExportProductsForm(request.POST)",
+        "detail": "back.app.HandlerApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "HandlerappConfig",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.apps",
+        "description": "back.app.HandlerApp.apps",
+        "peekOfCode": "class HandlerappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'HandlerApp'",
+        "detail": "back.app.HandlerApp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ExportProductsForm",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.forms",
+        "description": "back.app.HandlerApp.forms",
+        "peekOfCode": "class ExportProductsForm(forms.Form):\n    group = forms.ModelChoiceField(queryset=ProductGroup.objects.all(), empty_label=\"Все группы\", label=\"Выберите группу товаров\")",
+        "detail": "back.app.HandlerApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ProductGroup",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.models",
+        "description": "back.app.HandlerApp.models",
+        "peekOfCode": "class ProductGroup(models.Model):\n    wg_id = models.IntegerField(unique=True, primary_key=True)\n    code = models.CharField(max_length=10, blank=True, null=True)\n    name = models.CharField(max_length=80)\n    higher_id = models.IntegerField(blank=True, null=True)\n    external_id = models.CharField(max_length=255, blank=True, null=True)\n    external_code = models.CharField(max_length=255, blank=True, null=True)\n    def __str__(self):\n        return self.name\n    class Meta:",
+        "detail": "back.app.HandlerApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Products",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.models",
+        "description": "back.app.HandlerApp.models",
+        "peekOfCode": "class Products(models.Model):\n    code = models.CharField(\n        max_length=10,\n        blank=True,\n        verbose_name=\"Код\", null=True\n    )\n    name = models.CharField(\n        max_length=1024,\n        verbose_name=\"Наименование\"\n    )",
+        "detail": "back.app.HandlerApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Products1",
+        "kind": 6,
+        "importPath": "back.app.HandlerApp.models",
+        "description": "back.app.HandlerApp.models",
+        "peekOfCode": "class Products1(models.Model):\n    id = models.CharField(unique=True, primary_key=True, max_length=1024)\n    name = models.CharField(\n        max_length=1024,\n        verbose_name=\"Наименование\"\n    )\n    barcode = models.CharField(\n        max_length=255, verbose_name=\"Штрих-код\", null=True)\n    group = models.CharField(max_length=255, verbose_name=\"Группа товара\")\n    unit = models.CharField(max_length=255, verbose_name=\"Единица измерения\")",
+        "detail": "back.app.HandlerApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "save_product_groups",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def save_product_groups(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()\n        for item in data.get('data', []):",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "save_products",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def save_products(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()\n        for item in data.get('data', []):",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "extract_barcodes",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def extract_barcodes(data):\n    barcodes = [item['barcode'] for item in data]\n    barcodes_str = '\\n'.join(barcodes)\n    return barcodes_str\ndef save_products1(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "save_products1",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def save_products1(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()\n        for item in data.get('data', []):",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "save_sale_prices",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def save_sale_prices(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()\n        # print(data)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "delete_all_products",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def delete_all_products():\n    Products1.objects.all().delete()\n    print(\"Все товары были удалены.\")\ndef save_numeric_barcodes(data):\n    barcode_values = []\n    has_numeric_barcode = False\n    for item in data:\n        if 'barcode' in item and item['barcode'] is not None:\n            barcode = item['barcode']\n            if barcode == 'none':",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "save_numeric_barcodes",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def save_numeric_barcodes(data):\n    barcode_values = []\n    has_numeric_barcode = False\n    for item in data:\n        if 'barcode' in item and item['barcode'] is not None:\n            barcode = item['barcode']\n            if barcode == 'none':\n                barcode_values.append('none')\n            else:\n                numeric_values = re.findall(r'\\d+', barcode)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "update_barcodes",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def update_barcodes():\n    products = Products1.objects.all()\n    for product in products:\n        barcode_list = []\n        if product.barcode:\n            if isinstance(product.barcode, str) and product.barcode.isdigit():\n                barcode_list.append(product.barcode)\n            else:\n                barcode_list.append('none')\n        new_barcode = '\\n'.join(barcode_list)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "save_quantity",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def save_quantity(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()\n        # print(data)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "def run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()\n    save_products1(product_url, access_token, sessionid_value)\n    save_sale_prices(url_for_get_sale, access_token, sessionid_value)\n    save_quantity(url_for_get_quantity, access_token, sessionid_value)\n    update_barcodes()\n    print(\"Все ОК\")",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "current_date",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "current_date = datetime.now()\nformatted_date = current_date.strftime('%d.%m.%Y')\ndef save_product_groups(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_date",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "formatted_date = current_date.strftime('%d.%m.%Y')\ndef save_product_groups(url, access_token, sessionid_value):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "access_token = \"4d99e3d6e19f48086f9fe81d14faa106013b6d19\"\nsessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\ngroup_url = \"https://lbe.litebox.ru/api/v1/waresgroup?page=0&limit=500\"\nproduct_url = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=5000\"\nurl_for_get_sale = \"https://lbe.litebox.ru/api/v1/object/43/saleprice\"\nurl_for_get_quantity = f\"https://lbe.litebox.ru/api/v1/object/43/waresrest?restdate={formatted_date}\"\ndef run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "sessionid_value",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "sessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\ngroup_url = \"https://lbe.litebox.ru/api/v1/waresgroup?page=0&limit=500\"\nproduct_url = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=5000\"\nurl_for_get_sale = \"https://lbe.litebox.ru/api/v1/object/43/saleprice\"\nurl_for_get_quantity = f\"https://lbe.litebox.ru/api/v1/object/43/waresrest?restdate={formatted_date}\"\ndef run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()\n    save_products1(product_url, access_token, sessionid_value)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "group_url",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "group_url = \"https://lbe.litebox.ru/api/v1/waresgroup?page=0&limit=500\"\nproduct_url = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=5000\"\nurl_for_get_sale = \"https://lbe.litebox.ru/api/v1/object/43/saleprice\"\nurl_for_get_quantity = f\"https://lbe.litebox.ru/api/v1/object/43/waresrest?restdate={formatted_date}\"\ndef run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()\n    save_products1(product_url, access_token, sessionid_value)\n    save_sale_prices(url_for_get_sale, access_token, sessionid_value)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "product_url",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "product_url = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=5000\"\nurl_for_get_sale = \"https://lbe.litebox.ru/api/v1/object/43/saleprice\"\nurl_for_get_quantity = f\"https://lbe.litebox.ru/api/v1/object/43/waresrest?restdate={formatted_date}\"\ndef run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()\n    save_products1(product_url, access_token, sessionid_value)\n    save_sale_prices(url_for_get_sale, access_token, sessionid_value)\n    save_quantity(url_for_get_quantity, access_token, sessionid_value)",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "url_for_get_sale",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "url_for_get_sale = \"https://lbe.litebox.ru/api/v1/object/43/saleprice\"\nurl_for_get_quantity = f\"https://lbe.litebox.ru/api/v1/object/43/waresrest?restdate={formatted_date}\"\ndef run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()\n    save_products1(product_url, access_token, sessionid_value)\n    save_sale_prices(url_for_get_sale, access_token, sessionid_value)\n    save_quantity(url_for_get_quantity, access_token, sessionid_value)\n    update_barcodes()",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "url_for_get_quantity",
+        "kind": 5,
+        "importPath": "back.app.HandlerApp.services",
+        "description": "back.app.HandlerApp.services",
+        "peekOfCode": "url_for_get_quantity = f\"https://lbe.litebox.ru/api/v1/object/43/waresrest?restdate={formatted_date}\"\ndef run():\n    save_product_groups(group_url, access_token, sessionid_value)\n    # save_products(product_url, access_token, sessionid_value)\n    delete_all_products()\n    save_products1(product_url, access_token, sessionid_value)\n    save_sale_prices(url_for_get_sale, access_token, sessionid_value)\n    save_quantity(url_for_get_quantity, access_token, sessionid_value)\n    update_barcodes()\n    print(\"Все ОК\")",
+        "detail": "back.app.HandlerApp.services",
+        "documentation": {}
+    },
+    {
+        "label": "export_products",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.views",
+        "description": "back.app.HandlerApp.views",
+        "peekOfCode": "def export_products(request):\n    if request.method == 'POST':\n        form = ExportProductsForm(request.POST)\n        if form.is_valid():\n            group = form.cleaned_data['group']\n            timestamp = datetime.now().strftime(\"%Y-%m-%d_%H-%M-%S\")  # Получите текущую дату и время в формате YYYY-MM-DD_HH-MM-SS\n            filename = f\"products_export_{timestamp}\"\n            response = HttpResponse(content_type='text/csv')\n            response['Content-Disposition'] = f'attachment; filename={timestamp}{group}.csv'\n            writer = csv.writer(response, csv.excel)",
+        "detail": "back.app.HandlerApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "decode_barcode",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.views",
+        "description": "back.app.HandlerApp.views",
+        "peekOfCode": "def decode_barcode(image_path):\n    try:\n        image = Image.open(image_path)\n        decoded_objects = decode(image)\n        if decoded_objects:\n            return decoded_objects[0].data.decode('utf-8')\n        else:\n            return None\n    except Exception as e:\n        print(\"Error decoding barcode:\", str(e))",
+        "detail": "back.app.HandlerApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_image",
+        "kind": 2,
+        "importPath": "back.app.HandlerApp.views",
+        "description": "back.app.HandlerApp.views",
+        "peekOfCode": "def upload_image(request):\n    if request.method == 'POST':\n        image = request.FILES['image']\n        barcode = decode_barcode(image)\n        if barcode:\n            return HttpResponse(f\"Decoded barcode: {barcode}\")\n        else:\n            return HttpResponse(\"No barcode found on the image.\")\n    return render(request, 'upload_image.html')",
+        "detail": "back.app.HandlerApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "back.app.app.asgi",
+        "description": "back.app.app.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "back.app.app.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-dd+c1!=en1q-^68%b4yb+4!9_0uj87+#l3q)lw!l5a8f-g@bv_'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-dd+c1!=en1q-^68%b4yb+4!9_0uj87+#l3q)lw!l5a8f-g@bv_'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'HandlerApp',",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'HandlerApp',\n    'django_extensions',\n]",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'app.urls'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "ROOT_URLCONF = 'app.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'app.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "back.app.app.settings",
+        "description": "back.app.app.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "back.app.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "back.app.app.urls",
+        "description": "back.app.app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('export/', views.export_products, name='export_products'),\n    path('upload/', views.upload_image, name='upload_image'),\n]",
+        "detail": "back.app.app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "back.app.app.wsgi",
+        "description": "back.app.app.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "back.app.app.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "back.app.manage",
+        "description": "back.app.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "back.app.manage",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "kind": 5,
+        "importPath": "other.fjuja.main",
+        "description": "other.fjuja.main",
+        "peekOfCode": "token = \"v1.71788.i5HcfeSP1ww3pO6SCeSxJ0nVcc3BQN2i389fldJeRlOgqczIXBYVfjWtYD7KoNS5\"\n# URL для запроса информации о заказе\nurl = f\"https://www.botobot.ru/api/v1/getOrderInfo/{token}\"\n# Параметры запроса (в данном случае, передаем идентификатор заказа)\nparams = {\n    \"order_id\": 12345  # Замените на нужный вам идентификатор заказа\n}\n# Отправка POST запроса\nresponse = requests.post(url, json=params)\n# Обработка ответа",
+        "detail": "other.fjuja.main",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "other.fjuja.main",
+        "description": "other.fjuja.main",
+        "peekOfCode": "url = f\"https://www.botobot.ru/api/v1/getOrderInfo/{token}\"\n# Параметры запроса (в данном случае, передаем идентификатор заказа)\nparams = {\n    \"order_id\": 12345  # Замените на нужный вам идентификатор заказа\n}\n# Отправка POST запроса\nresponse = requests.post(url, json=params)\n# Обработка ответа\nif response.status_code == 200:\n    data = response.json()",
+        "detail": "other.fjuja.main",
+        "documentation": {}
+    },
+    {
+        "label": "params",
+        "kind": 5,
+        "importPath": "other.fjuja.main",
+        "description": "other.fjuja.main",
+        "peekOfCode": "params = {\n    \"order_id\": 12345  # Замените на нужный вам идентификатор заказа\n}\n# Отправка POST запроса\nresponse = requests.post(url, json=params)\n# Обработка ответа\nif response.status_code == 200:\n    data = response.json()\n    if data[\"status\"] == \"success\":\n        order_info = data[\"data\"]",
+        "detail": "other.fjuja.main",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "other.fjuja.main",
+        "description": "other.fjuja.main",
+        "peekOfCode": "response = requests.post(url, json=params)\n# Обработка ответа\nif response.status_code == 200:\n    data = response.json()\n    if data[\"status\"] == \"success\":\n        order_info = data[\"data\"]\n        print(\"Информация о заказе:\")\n        print(\"ID заказа:\", order_info[\"id\"])\n        print(\"Получатель:\", order_info[\"recipient\"])\n        print(\"Адрес доставки:\", order_info[\"address\"])",
+        "detail": "other.fjuja.main",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "other.modules.getToken",
+        "description": "other.modules.getToken",
+        "peekOfCode": "url = \"https://lbe.litebox.ru/api/v1/auth-token\"\nheaders = {\n    \"Accept-Encoding\": \"gzip, deflate, br\",\n    \"Accept-Language\": \"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\",\n    \"Connection\": \"keep-alive\",\n    \"Cookie\": \"_ym_uid=1682300907290900215; _ym_d=1682300907; _ga=GA1.2.1494914864.1682300908; tmr_lvid=3baa7013a9f7bff999c20c43f481b679; tmr_lvidTS=1682300908392; _fbp=fb.1.1682300909464.1758820943; csrftoken=aUCgsmE7yvPtFEPfyCklkxGItmSrX3k36OYFcUHbagYt2ExvFvWNU0cn6jm62f5w; sessionid=o5362u6izqr1xoz5l1seq8fyw0rlzkcv; _ga_7JL0LZZSRW=GS1.2.1691231033.9.0.1691231033.60.0.0; refresh_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MTM3NzcxOSwiaWF0IjoxNjkxMjkxMzE5LCJqdGkiOiIxNjU0NzYxZjIzNGY0OWQ0OWE1NmU1ZWNlZGM5ZmUxOCIsInVzZXJfaWQiOjYyODE0OSwib3duZXJfaWQiOjYyODIyOSwic2FfdWlkIjo2MjgyMjksInJvbGUiOiJcdTA0MTRcdTA0MzhcdTA0M2JcdTA0MzVcdTA0NDAiLCJtc2lzZG4iOiI3OTE0OTEzMDIwNCJ9.Iz66Bsr1-blM02YuF63HmopCJlPiSqc9HeWOd5d0EFTmkmZLrpaToM-j5kyTERJYzY_Dy03Fn7RtPBqmy6n9unC2r-Y98sFphaMrFcUE0W3nuvgt2jbhTgn_pVBVG2oP-o2UJDwCtaK1pQecRGgGtw1fNHlz2reveopv27azdcmg_wgyUdQDUiXTsKjuEZDn8dpTZiS45OgVSQeqX6QqLBSmqtppXZVXBN4YzhemDMSwuQAsI0ERpsg5_sS3COSeuOK1zN8cFCLr-FZkYsq7o_7WSdAY2sVnWzrzmsDchlAm71ZI6diqKaFXl8g2YD46jzc6rXVtucgetsySm0cIoS3VFexUh4FIVoIuBzJm5ah93OZuZYgJifclgK536uxmWX7rMzxIrC5S5d98ivvgsoNMBBy_G_sWa7AIlRqg8MuLXmC_aJ-mt82Dk-zJRATeZT4er1iFb4myHRg9tmbYIgOkd4s1gy7xo_Ogh52gg-japd-MttPIA9XiqW-VYM3wtRiIC4b0lZlb9JDDLDVZ1bb1GhqhMm_vqHsNar_w4hRncB-N8ozgz57Yqh1i85HKmSEJEyAauLnUzL3NAWz1BUWJdwPQyWxsM0ee6Y8wPZFx9WDmsQ0jVwueKfM5bZzLgJInHqEoGvTiKKGhnH5s70HXGUYjGs8bFUrvbx5fnh4\",\n    \"DNT\": \"1\",\n    \"EMAIL\": \"tabacorda@gmail.com\",\n    \"Host\": \"lbe.litebox.ru\",\n    \"PASSWORD\": \"Swat2002\",",
+        "detail": "other.modules.getToken",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "other.modules.getToken",
+        "description": "other.modules.getToken",
+        "peekOfCode": "headers = {\n    \"Accept-Encoding\": \"gzip, deflate, br\",\n    \"Accept-Language\": \"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\",\n    \"Connection\": \"keep-alive\",\n    \"Cookie\": \"_ym_uid=1682300907290900215; _ym_d=1682300907; _ga=GA1.2.1494914864.1682300908; tmr_lvid=3baa7013a9f7bff999c20c43f481b679; tmr_lvidTS=1682300908392; _fbp=fb.1.1682300909464.1758820943; csrftoken=aUCgsmE7yvPtFEPfyCklkxGItmSrX3k36OYFcUHbagYt2ExvFvWNU0cn6jm62f5w; sessionid=o5362u6izqr1xoz5l1seq8fyw0rlzkcv; _ga_7JL0LZZSRW=GS1.2.1691231033.9.0.1691231033.60.0.0; refresh_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MTM3NzcxOSwiaWF0IjoxNjkxMjkxMzE5LCJqdGkiOiIxNjU0NzYxZjIzNGY0OWQ0OWE1NmU1ZWNlZGM5ZmUxOCIsInVzZXJfaWQiOjYyODE0OSwib3duZXJfaWQiOjYyODIyOSwic2FfdWlkIjo2MjgyMjksInJvbGUiOiJcdTA0MTRcdTA0MzhcdTA0M2JcdTA0MzVcdTA0NDAiLCJtc2lzZG4iOiI3OTE0OTEzMDIwNCJ9.Iz66Bsr1-blM02YuF63HmopCJlPiSqc9HeWOd5d0EFTmkmZLrpaToM-j5kyTERJYzY_Dy03Fn7RtPBqmy6n9unC2r-Y98sFphaMrFcUE0W3nuvgt2jbhTgn_pVBVG2oP-o2UJDwCtaK1pQecRGgGtw1fNHlz2reveopv27azdcmg_wgyUdQDUiXTsKjuEZDn8dpTZiS45OgVSQeqX6QqLBSmqtppXZVXBN4YzhemDMSwuQAsI0ERpsg5_sS3COSeuOK1zN8cFCLr-FZkYsq7o_7WSdAY2sVnWzrzmsDchlAm71ZI6diqKaFXl8g2YD46jzc6rXVtucgetsySm0cIoS3VFexUh4FIVoIuBzJm5ah93OZuZYgJifclgK536uxmWX7rMzxIrC5S5d98ivvgsoNMBBy_G_sWa7AIlRqg8MuLXmC_aJ-mt82Dk-zJRATeZT4er1iFb4myHRg9tmbYIgOkd4s1gy7xo_Ogh52gg-japd-MttPIA9XiqW-VYM3wtRiIC4b0lZlb9JDDLDVZ1bb1GhqhMm_vqHsNar_w4hRncB-N8ozgz57Yqh1i85HKmSEJEyAauLnUzL3NAWz1BUWJdwPQyWxsM0ee6Y8wPZFx9WDmsQ0jVwueKfM5bZzLgJInHqEoGvTiKKGhnH5s70HXGUYjGs8bFUrvbx5fnh4\",\n    \"DNT\": \"1\",\n    \"EMAIL\": \"tabacorda@gmail.com\",\n    \"Host\": \"lbe.litebox.ru\",\n    \"PASSWORD\": \"Swat2002\",\n    \"Referer\": \"https://lbe.litebox.ru/api/swagger/\",",
+        "detail": "other.modules.getToken",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "other.modules.getToken",
+        "description": "other.modules.getToken",
+        "peekOfCode": "response = requests.get(url, headers=headers)\nif response.status_code == 200:\n    auth_token = response.json().get(\"token\")\n    print(\"Полученный токен доступа:\", auth_token)\n    # Запись токена в файл\n    with open(\"modules/token.txt\", \"w\") as file:\n        file.write(auth_token)\n    print(\"Токен записан в файл token.txt\")\nelse:\n    print(\"Ошибка при выполнении запроса:\", response.status_code)",
+        "detail": "other.modules.getToken",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "other.modules.ma",
+        "description": "other.modules.ma",
+        "peekOfCode": "access_token = \"4d99e3d6e19f48086f9fe81d14faa106013b6d19\"\nsessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\n# URL защищенного ресурса API, который требует авторизацию\nurl = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=2\"\n# Заголовки запроса с токеном авторизации\nheaders = {\n    \"Authorization\": access_token,\n    \"Accept\": \"application/json\",\n    \"Cookie\": f\"sessionid={sessionid_value}\"\n}",
+        "detail": "other.modules.ma",
+        "documentation": {}
+    },
+    {
+        "label": "sessionid_value",
+        "kind": 5,
+        "importPath": "other.modules.ma",
+        "description": "other.modules.ma",
+        "peekOfCode": "sessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\n# URL защищенного ресурса API, который требует авторизацию\nurl = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=2\"\n# Заголовки запроса с токеном авторизации\nheaders = {\n    \"Authorization\": access_token,\n    \"Accept\": \"application/json\",\n    \"Cookie\": f\"sessionid={sessionid_value}\"\n}\n# Выполняем GET запрос к защищенному ресурсу API",
+        "detail": "other.modules.ma",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "other.modules.ma",
+        "description": "other.modules.ma",
+        "peekOfCode": "url = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=2\"\n# Заголовки запроса с токеном авторизации\nheaders = {\n    \"Authorization\": access_token,\n    \"Accept\": \"application/json\",\n    \"Cookie\": f\"sessionid={sessionid_value}\"\n}\n# Выполняем GET запрос к защищенному ресурсу API\nresponse = requests.get(url, headers=headers)\n# Обрабатываем ответ",
+        "detail": "other.modules.ma",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "other.modules.ma",
+        "description": "other.modules.ma",
+        "peekOfCode": "headers = {\n    \"Authorization\": access_token,\n    \"Accept\": \"application/json\",\n    \"Cookie\": f\"sessionid={sessionid_value}\"\n}\n# Выполняем GET запрос к защищенному ресурсу API\nresponse = requests.get(url, headers=headers)\n# Обрабатываем ответ\nif response.status_code == 200:\n    data = response.json()",
+        "detail": "other.modules.ma",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "other.modules.ma",
+        "description": "other.modules.ma",
+        "peekOfCode": "response = requests.get(url, headers=headers)\n# Обрабатываем ответ\nif response.status_code == 200:\n    data = response.json()\n    print(data)\nelse:\n    print(\"Ошибка при выполнении запроса:\", response.status_code)",
+        "detail": "other.modules.ma",
+        "documentation": {}
+    },
+    {
+        "label": "get_and_save_data",
+        "kind": 2,
+        "importPath": "other.modules.savedata",
+        "description": "other.modules.savedata",
+        "peekOfCode": "def get_and_save_data(url, access_token, sessionid_value, output_file):\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()\n        df = pd.json_normalize(data['data'])  # Преобразование JSON данных в DataFrame",
+        "detail": "other.modules.savedata",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "other.modules.savedata",
+        "description": "other.modules.savedata",
+        "peekOfCode": "access_token = \"4d99e3d6e19f48086f9fe81d14faa106013b6d19\"\nsessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\nurl = \"https://lbe.litebox.ru/api/v1/waresgroup?page=0&limit=100\"\noutput_file = \"data.xlsx\"\nget_and_save_data(url, access_token, sessionid_value, output_file)",
+        "detail": "other.modules.savedata",
+        "documentation": {}
+    },
+    {
+        "label": "sessionid_value",
+        "kind": 5,
+        "importPath": "other.modules.savedata",
+        "description": "other.modules.savedata",
+        "peekOfCode": "sessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\nurl = \"https://lbe.litebox.ru/api/v1/waresgroup?page=0&limit=100\"\noutput_file = \"data.xlsx\"\nget_and_save_data(url, access_token, sessionid_value, output_file)",
+        "detail": "other.modules.savedata",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "other.modules.savedata",
+        "description": "other.modules.savedata",
+        "peekOfCode": "url = \"https://lbe.litebox.ru/api/v1/waresgroup?page=0&limit=100\"\noutput_file = \"data.xlsx\"\nget_and_save_data(url, access_token, sessionid_value, output_file)",
+        "detail": "other.modules.savedata",
+        "documentation": {}
+    },
+    {
+        "label": "output_file",
+        "kind": 5,
+        "importPath": "other.modules.savedata",
+        "description": "other.modules.savedata",
+        "peekOfCode": "output_file = \"data.xlsx\"\nget_and_save_data(url, access_token, sessionid_value, output_file)",
+        "detail": "other.modules.savedata",
+        "documentation": {}
+    },
+    {
+        "label": "search_vape_liquid_products",
+        "kind": 2,
+        "importPath": "other.modules.vape",
+        "description": "other.modules.vape",
+        "peekOfCode": "def search_vape_liquid_products(access_token, sessionid_value):\n    url = \"https://lbe.litebox.ru/api/v1/gwares?page=0&limit=4322\"\n    headers = {\n        \"Authorization\": access_token,\n        \"Accept\": \"application/json\",\n        \"Cookie\": f\"sessionid={sessionid_value}\"\n    }\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        data = response.json()",
+        "detail": "other.modules.vape",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_file",
+        "kind": 2,
+        "importPath": "other.modules.vape",
+        "description": "other.modules.vape",
+        "peekOfCode": "def save_to_file(data, filename):\n    with open(filename, \"w\") as file:\n        json.dump(data, file, indent=4)\nif __name__ == \"__main__\":\n    access_token = \"4d99e3d6e19f48086f9fe81d14faa106013b6d19\"\n    sessionid_value = \"jxr6xni1nghxz1tljkd0ud6vmnunk4un\"\n    vape_liquid_products = search_vape_liquid_products(access_token, sessionid_value)\n    if vape_liquid_products:\n        save_to_file(vape_liquid_products, \"vape_liquid_products.json\")\n        print(\"Товары связанные с жидкостью для вейпов сохранены в файл vape_liquid_products.json\")",
+        "detail": "other.modules.vape",
+        "documentation": {}
+    },
+    {
+        "label": "count_products_in_file",
+        "kind": 2,
+        "importPath": "other.len",
+        "description": "other.len",
+        "peekOfCode": "def count_products_in_file(file_path):\n    try:\n        with open(file_path, 'r') as file:\n            data = json.load(file)\n            num_products = len(data)\n            return num_products\n    except FileNotFoundError:\n        return 0\nif __name__ == \"__main__\":\n    file_path = \"vape_liquid_products.json\"",
+        "detail": "other.len",
+        "documentation": {}
+    },
+    {
+        "label": "search_and_save_images",
+        "kind": 2,
+        "importPath": "other.photoadd",
+        "description": "other.photoadd",
+        "peekOfCode": "def search_and_save_images(search_query, output_file):\n    try:\n        driver = webdriver.Chrome(executable_path='/path/to/chromedriver')  # Укажите путь к chromedriver\n        # Открыть Яндекс\n        driver.get('https://yandex.ru/images/')\n        # Найти поле ввода запроса и ввести поисковый запрос\n        search_input = driver.find_element(By.CSS_SELECTOR, '.input__control')\n        search_input.send_keys(search_query)\n        search_input.send_keys(Keys.RETURN)\n        # Подождать пока загрузится страница результатов",
+        "detail": "other.photoadd",
+        "documentation": {}
+    }
+]
